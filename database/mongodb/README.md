@@ -1,5 +1,4 @@
 # Fixação - MongoDB
-[https://classroom.google.com/u/0/c/NDc5ODM5NjE1ODk4/a/NTM2MzEyMDI5NzA4/details](Classroom)
 
 ## Consultas a serem resolvidas:
 
